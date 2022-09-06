@@ -12,13 +12,13 @@ export const testimonialsData = [
   },
   {
     image: image2,
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi ipsam, ab itaque nam perferendis impedit sint ',
+    review: 'Hey I am John and i am very excited to train new people who wants to stay fit, please join us this is the best place where you will get the best training',
     name: 'JOHN KEVIN',
     status: 'COACH'
   },
   {
     image : image3,
-    review:' Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima aspernatur quod voluptatem',
+    review:'Hello i am Franklin ,last year i joined this gym and to be very honest this is the best gym where i have ever trained ,the environment is great and the trainers are very professional and are the best in their feild',
     name: 'FRANKLIN',
     status: "CUSTOMER"
   }
